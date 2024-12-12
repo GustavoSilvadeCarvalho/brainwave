@@ -1,8 +1,19 @@
-# React + Vite
+# Brainwave Landing Page 🌌
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Um site moderno e sofisticado criado com **Vite**, **React.js**, e **Tailwind CSS**. Este projeto combina design inovador com uma experiência de usuário fluida, apresentando animações, layouts responsivos e os mais recentes padrões de UI/UX.
 
-Currently, two official plugins are available:
+## 🔋 Recursos
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Seções Bem Elaboradas**: Inclui **Hero**, **Serviços**, **Recursos**, **Como Usar**, **Roadmap**, **Preços**, **Footer** e **Header**.
+- **Animações de Parallax**: Efeitos dinâmicos que reagem ao movimento do mouse e à rolagem.
+- **Geometria Complexa de UI**: Formas intrincadas como displays circulares, linhas de grade e linhas laterais criadas com **Tailwind CSS**.
+- **Tendências Modernas de UI**: Uso de elementos de design como grades bento.
+- **Gradientes Modernos**: Botões, cartões e outros elementos estilizados com gradientes impressionantes.
+- **Design Responsivo**: Totalmente funcional e esteticamente agradável em todos os dispositivos.
+- **Reutilização de Código**: Arquitetura limpa e altamente reutilizável para manutenção fácil e rápida.
+
+## ⚙️ Tecnologias Utilizadas
+
+- **Vite**: Ferramenta de construção rápida e eficiente.
+- **React.js**: Biblioteca para construção de interfaces de usuário.
+- **Tailwind CSS**: Framework utilitário para estilização moderna e responsiva.
