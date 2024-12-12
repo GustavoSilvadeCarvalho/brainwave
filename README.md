@@ -18,3 +18,10 @@ Um site moderno e sofisticado criado com **Vite**, **React.js**, e **Tailwind CS
 - **React.js**: Biblioteca para construção de interfaces de usuário.
 - **Tailwind CSS**: Framework utilitário para estilização moderna e responsiva.
 - **Copilot**: Utilizei o Copilot para geração dos comentários dos commits.
+
+## 🎨 Design e Estilo
+O design foi criado com foco em sofisticação e modernidade, utilizando:
+
+- Paleta de cores escuras e gradientes atraentes.
+- Geometria avançada de UI para capturar a atenção dos usuários.
+- Elementos responsivos para uma experiência perfeita em qualquer dispositivo.
