@@ -17,3 +17,4 @@ Um site moderno e sofisticado criado com **Vite**, **React.js**, e **Tailwind CS
 - **Vite**: Ferramenta de construção rápida e eficiente.
 - **React.js**: Biblioteca para construção de interfaces de usuário.
 - **Tailwind CSS**: Framework utilitário para estilização moderna e responsiva.
+- **Copilot**: Utilizei o Copilot para geração dos comentários dos commits.
